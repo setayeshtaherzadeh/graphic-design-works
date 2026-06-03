@@ -1,6 +1,6 @@
 # Graphic Design Portfolio
 
-A collection of early design experiments from previous years, including poster designs and packaging concepts, created using Adobe Photoshop, Illustrator, and CorelDRAW.
+A collection of early design experiments from previous years, including poster designs, tattoo typography design and packaging concepts, created using Adobe Photoshop, Illustrator, and CorelDRAW.
 
 These projects explore basic principles of layout, composition, and visual communication. and reflect my initial exploration of visual design and communication at that time.
 
